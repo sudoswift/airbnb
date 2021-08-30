@@ -1,5 +1,5 @@
-/airbnb/config/settings.py
-/airbnb/.vscode
-/airbnb/manage.py
-/airbnb/Pipfile
-/airbnb/Pipfile.lock
+/config/settings.py
+/.vscode
+/manage.py
+/Pipfile
+/Pipfile.lock
